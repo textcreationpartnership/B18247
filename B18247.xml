@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The approved success which you have found of those famous lozenges or pect[...] of Mr. Theophilus Buckworth of Milend-Green, and your acceptation thereof being sufficient of it self to their eccellency ...</title>
+            <author>Buckworth, Theophilus.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18247</idno><idno type="EEBO-CITATION">99888676</idno>
+  <idno type="VID">195884</idno>
+  <idno type="EEBO-PROQUEST">2240903646</idno>
+  
+            <idno type="STC">Wing B5354C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[79]</idno>
+            <idno type="STC">ESTC R231527</idno>
+            <idno type="PROQUEST">ocm99888676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888676e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195884)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[80])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The approved success which you have found of those famous lozenges or pect[...] of Mr. Theophilus Buckworth of Milend-Green, and your acceptation thereof being sufficient of it self to their eccellency ...</title>
+                  <author>Buckworth, Theophilus.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Imperfect: torn at head and closely cropped with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Buckworth, Theophilus --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response_to_libel">
+            <pb facs="tcp:195884:1"/>
+            <p>THE Approved Success which you have found of those Famous <hi>Lozenges</hi> or <hi>Pect<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> of Mr. <hi>Theophilus Buckworth</hi> of <hi>Milend-Green,</hi> and your Acceptation thereof being sufficient of it self to testifie their Eccellency, and Vindicate him from the wicked de<g ref="char:EOLhyphen"/>signes of <hi>Lownds</hi> and <hi>Peircy,</hi> or any other; he intended to rest there upon in silence, but yet they still pursuing their wonted practise in Scandalous Libelling, I am once more inforced (though I shall not trouble you with a recital of their many impudent▪ untruthes, and Scandals Published in many Printed Papers by <hi>Lownds</hi> and <hi>Peircy</hi> against Mr. <hi>Theophilus Buckworth</hi> the Author or <hi>Operator</hi> of his said <hi>Lozenges,</hi>) to declare a little more of their dealing in a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew particulars.</p>
+            <list>
+               <item>1. When <hi>Peircy</hi> began to make <hi>Lozenges, Lownds</hi> Printed papers against him, but when <hi>Lownds</hi> and <hi>Peircy</hi> met, &amp; <hi>Peircy</hi> would sell him <hi>Lozenges</hi> (such as they are) for five shillings a <hi>Pound,</hi> then <hi>Lownds</hi> (for his own profit,) utterly disclaimes Mr. <hi>Buckworths,</hi> and combines with <hi>Peircy</hi> to scandalize Mr. <hi>Buckworth</hi> and his <hi>Lozenges,</hi> as they did by their Printed Bills.</item>
+               <item>2. <hi>Lownds</hi> pretends great care of the peoples <hi>Health,</hi> but being told that <hi>Peircies Lozenges</hi> were not so good as <hi>Buckworths,</hi> his answer was, <hi>He cared not, For his Sign was the Sign of the white Lion still,</hi> and if they were Brick-bats sealed up he could sell them, and that was all he cared for.</item>
+               <item>3. <hi>Lownds</hi> finding his designe to fail herein, and that <hi>Peirce</hi>'s <hi>Lozenges</hi> would not do his work, he hath gotten one <hi>Buckworth</hi> to make him <hi>Lozenges,</hi> and now the said Mr. <hi>Lownds</hi> being undeceived herein, and fully satisfied as to the excellency of Mr. <hi>Buckworths Lozenges,</hi> (for the common good as he saith) sells them again, pardon his mistakes.</item>
+               <item>4. They have the Impudence to Publish that Mr. <hi>Theophilus Buckworth</hi> was convicted by a Legal tryal at Law, and that he was indicted at Sessions, and durst not appear to Justifie himself; but this is as notorio<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly false as the rest of their Stories.</item>
+               <item>5. It is true, they contrived an Arrest against Mr. <hi>Buckworth,</hi> and prosecuted it by <hi>Richard Adrian</hi> a Minister (such a one as tis) Brother in Law to <hi>John Peircy,</hi> who for his mischievous acting therein, was the last General Sessions Indicted, and by the Court Committed to the <hi>New-Prison,</hi> and at the next Sessions he will receive punishment according to his deserts, and his Brother in Law <hi>John Peircy</hi> is prosecuted for his Base scandals at the suit of Mr. <hi>Buckworth.</hi>
+               </item>
+            </list>
+            <p>But to prevent all their designes, and that all people may be assured of the truth of Mr. <hi>The<g ref="char:EOLhyphen"/>ophilus Buckworths Lozenges,</hi> he hath addressed himself to one of his <hi>Majesties Doctors</hi> in ordi<g ref="char:EOLhyphen"/>nary, and <hi>Doctor</hi> to his <hi>Majesties Family,</hi> and to another eminent <hi>Doctor</hi> of the <hi>Colledge</hi> of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who hath given approbation of the Eccellency of them under their hands, and that no person be deceived with the name of <hi>Buckworth</hi>'s <hi>Lozenges;</hi> Be pleased once more to take Notice that his Right <hi>Lozenges</hi> are to be had at no places in <hi>England</hi> but these following.</p>
+         </div>
+         <div type="list_of_distributors">
+            <p>AT Mr. <hi>Rocke</hi> at the <hi>Lamb</hi> and <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk-bottle</hi> at the East end of <hi>St. Pauls Church-Yard</hi> near the School. <hi>Mrs. Seiles</hi> over against St. <hi>Dunstons Church</hi> in <hi>Fleet Street,</hi> Mr. <hi>Thomas Clark</hi> at the entrance of the Royal Exchange, Mr. <hi>William Milward</hi> at <hi>Westminster-Hall Gate.</hi> Mr. <hi>William Place</hi> at <hi>Grays-Inn Gate</hi> in <hi>Holborn.</hi> Mr. <hi>Joseph Cranford</hi> at the <hi>Gun</hi> in <hi>St. Pauls Church-Yard,</hi> near the Shop of Mr. <hi>Lownds,</hi> and at Mr. <hi>Magnus</hi> in <hi>Covent Garden,</hi> where the Post Letters are left, and at Mr. <hi>Walter Hayes,</hi> Mathematical Instrument-Maker at the crosse Daggers near the Popes Head in <hi>More-Fields.</hi> Mr. <hi>Leonard Soures by</hi> near the Turn-stile, near <hi>New-Market.</hi> and at Mr. <hi>John Maynstones</hi> Mathematical Instrument Maker, over-against <hi>York-House</hi> in the <hi>Strand.</hi> at Mr. <hi>Maubourn</hi> in <hi>York,</hi> and Mr. <hi>Fenner</hi> in <hi>Canterbury.</hi> At Mr. <hi>Thomas Lacy</hi> against <hi>Pentioners Ally</hi> in <hi>Kings S<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reet, Westminster,</hi> next the <hi>Myter Tavern.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
